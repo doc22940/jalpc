@@ -1,30 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: ABC Sportscards
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I worked at ABC Sportscards for 8 years
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Apr. 2001
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Owner
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Bells Vista Farm
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at BVF for 5 years
     i18n: company_b_desc
   date:
     detail: Jun. 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Farm Manager
     i18n: company_b_job
   icon: fa-plus-square
